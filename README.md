@@ -5,7 +5,7 @@
 
 ## Introduction
 
-People, educated and uneducated, who do not work and cannot earn enough for their own living, are called unemployed. The unemployment ratio of a country is calculated by dividing the number of unemployed people by the total number of employed people.
+People, educated and uneducated, who do not work and cannot earn enough for their own living, are called unemployed. The unemployment ratio of a country is calculated by dividing the number of unemployed people by the total number of people in the country.
 
 High unemployment can have a negative impact on the country’s economic growth. It may also increase poverty, alcoholism, depression and suicide rate. This could be a great threat to humans. 
 Hence, analyzing the unemployment data could give the government or the organizations a first idea on what is going on in the world, and what measures could be taken to decrease unemployment.

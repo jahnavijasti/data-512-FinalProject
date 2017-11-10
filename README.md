@@ -21,7 +21,8 @@ The goal of the project is to find
 
 ## Data
 
-The unemployment rate data for each country is downloaded from World Bank Data, with an open license. 
+The unemployment rate data for each country is downloaded from World Bank Data (https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS), with an open license. 
+https://data.worldbank.org/summary-terms-of-use
 	
 
 

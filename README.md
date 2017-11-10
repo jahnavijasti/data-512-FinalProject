@@ -23,9 +23,10 @@ The goal of the project is to find
 
 The unemployment rate data for each country is downloaded from World Bank Data (https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS), with an open license. 
 https://data.worldbank.org/summary-terms-of-use
-	
 
+The data is from ILOSTAT(International Labour Organization) database. The data with csv format files can be downloaded and the downloaded folder contains three files: API_SL.UEM.TOTL.ZS_DS2_en_csv_v2.csv , Metadata_Country_API_SL.UEM.TOTL.ZS_DS2_en_csv_v2.csv, Metadata_Indicator_API_SL.UEM.TOTL.ZS_DS2_en_csv_v2.csv.
 
+API_SL.UEM.TOTL.ZS_DS2_en_csv_v2.csv (renamed as UnemploymentRate.csv for the analysis) consists the data that we need, and the other two files contain the metadata.
 
 The data contains the following columns:
 
@@ -48,4 +49,6 @@ The file consists data for 265 countries from 1991 to 2016. Although there are c
 
 •	A visualization that shows the rate of change of unemployment rate for each country.
 
+The countries with more unemployment rate should need to focus more on how they can get employment oppourtunities for their citizens, like introducing Foreign Direct Investment and encouraging foreign countries to invest in their prople. 
 
+The countries with increasing/decreasing rate, need to investigate what is going on and take measures to improve employment opportuninties.

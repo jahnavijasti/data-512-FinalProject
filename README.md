@@ -7,6 +7,8 @@
 
 People, educated and uneducated, who do not work and cannot earn enough for their own living, are called unemployed. The unemployment ratio of a country is calculated by dividing the number of unemployed people by the total number of people in the country. The motivation behind this analysis is to bring more in depth knowledge about unemployement in the world. We know that there is an effect of unemployment on any country, and this analysis gives insights of which countries need to focus more on employment oppourtunities.
 
+This project mainly focuses on four countries, namely United States, United Kingdom, United Arab Emirate and India. I expect the rate on umemployment in India would be increasing over the years, while the other countries have decreasing rate. 
+
 ## Why is this analysis important
 
 High unemployment can have a negative impact on the country’s economic growth. It may also increase poverty, alcoholism, depression and suicide rate. This could be a great threat to humans. 
@@ -18,6 +20,8 @@ The goal of the project is to find
 •	Countries with highest rate of unemployment
 
 •	Countries with increasing/decreasing rate of unemployment over the years
+
+. Predicting the behavior of the rate in the future.
 
 ## Data
 
@@ -48,6 +52,8 @@ The file consists data for 265 countries from 1991 to 2016. Although there are c
 •	A visualization that show the countries with highest and lowest unemployment rate. 
 
 •	A visualization that shows the rate of change of unemployment rate for each country.
+
+. Prediction of the unemployment rate
 
 The countries with more unemployment rate should need to focus more on how they can get employment oppourtunities for their citizens, like introducing Foreign Direct Investment and encouraging foreign countries to invest in their prople. 
 

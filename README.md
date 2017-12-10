@@ -1,4 +1,4 @@
-# data-512-FinalProjectPlan
+# data-512-FinalProject
 
 
 # World Unemployment Rate
@@ -49,13 +49,13 @@ The data contains the following columns:
 
 The file consists data for 265 countries from 1991 to 2016. Although there are columns for years from 1960 to 1990, there is no available data for these years. Hence, these columns will be deleted for the analysis.
 
-## Expected Result
+## Results
 
 •	A visualization that show the countries with highest and lowest unemployment rate. 
 
 •	A visualization that shows the rate of change of unemployment rate for each country.
 
-. Prediction of the unemployment rate
+•	Prediction of the unemployment rate
 
 The countries with more unemployment rate should need to focus more on how they can get employment oppourtunities for their citizens, like introducing Foreign Direct Investment and encouraging foreign countries to invest in their prople. 
 

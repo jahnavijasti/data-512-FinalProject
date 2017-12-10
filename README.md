@@ -23,7 +23,8 @@ The goal of the project is to find
 
 •	Countries with increasing/decreasing rate of unemployment over the years
 
-. Predicting the behavior of the rate in the future.
+•	Predicting the behavior of the rate in the future.
+
 
 ## Data
 

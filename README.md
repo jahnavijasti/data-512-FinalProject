@@ -19,7 +19,7 @@ Hence, analyzing the unemployment data could give the government or the organiza
 ## Goal of the project
 The goal of the project is to find 
 
-•	Countries with highest rate of unemployment
+•	Countries with highest/lowest rate of unemployment
 
 •	Countries with increasing/decreasing rate of unemployment over the years
 
@@ -60,4 +60,4 @@ The file consists data for 265 countries from 1991 to 2016. Although there are c
 
 The countries with more unemployment rate should need to focus more on how they can get employment oppourtunities for their citizens, like introducing Foreign Direct Investment and encouraging foreign countries to invest in their prople. 
 
-The countries with increasing/decreasing rate, need to investigate what is going on and take measures to improve employment opportuninties.
+The countries with increasing rate, need to investigate what is going on and take measures to improve employment opportuninties.
